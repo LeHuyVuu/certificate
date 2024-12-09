@@ -9,10 +9,11 @@ This repository is a collection of my academic and professional achievements. Fe
 
 | Certificate Name                         | Description                                 | 
 |------------------------------------------|---------------------------------------------|
-| [🎉 Excellent of Semester Spring 2024](./Excellent%20of%20Semester%20Spring2024.pdf) | Outstanding performance in Spring 2024     | 
+| [💕 Honorable of Semester Summer 2024](./Honorable%20of%20Semester%20Summer2024.pdf) | Achieved Good Academic Performance in Summer 2024         | 
+| [🎉 Excellent of Semester Spring 2024](./Excellent%20of%20Semester%20Spring2024.pdf) | Top 100 students excellence in Spring 2024     | 
+| [🏅 Honorable of Semester Fall 2023](./Honorable%20of%20Semester%20Fall2023.pdf) | Achieved Good Academic Performance in Fall 2023           | 
+| [☀️ Honorable of Semester Summer 2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Achieved Good Academic Performance in Summer 2023         | 
 | [✅ Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf)           | Completed the internship successfully       | 
-| [🏅 Honorable of Semester Fall 2023](./Honorable%20of%20Semester%20Fall2023.pdf) | Academic excellence in Fall 2023           | 
-| [☀️ Honorable of Semester Summer 2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Academic excellence in Summer 2023         | 
 | [📜 Web Design Basic Certificate](./Web%20Design%20Basic.pdf)         | Successfully completed Web Design training  | 
 | [📋 Curriculum Vitae (BE Intern)](./VuLH_Curriculum%20Vitae_BE%20Intern.pdf) | My professional CV                         | 
 
