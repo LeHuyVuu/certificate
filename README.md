@@ -15,7 +15,6 @@ This repository is a collection of my academic and professional achievements. Fe
 | [☀️ Honorable of Semester Summer 2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Achieved Good Academic Performance in Summer 2023         | 
 | [✅ Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf)           | Completed the internship successfully       | 
 | [📜 Web Design Basic Certificate](./Web%20Design%20Basic.pdf)         | Successfully completed Web Design training  | 
-| [📋 Curriculum Vitae (BE Intern)](./VuLH_Curriculum%20Vitae_BE%20Intern.pdf) | My professional CV                         | 
 
 ---
 
