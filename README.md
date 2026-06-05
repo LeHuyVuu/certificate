@@ -32,11 +32,11 @@ This repository gathers my academic and professional certificates in one place. 
 | [Honorable of Semester Summer 2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Good academic performance in Summer 2023 |
 | [Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf) | Successfully completed the internship |
 | [Web Design Basics](./Web%20design%20basic.pdf) | Completed Web Design basics training |
-| [Fall 2024](./Fall2024.pdf) | Good academic performance Fall 2024 |
-| [Fall 2025](./Fall2025.pdf) | Good academic performance Fall 2025 |
+| [Honorable of Semester Fall 2024](./Fall2024.pdf) | Good academic performance Fall 2024 |
+| [Honorable of Semester Fall 2025](./Fall2025.pdf) | Good academic performance Fall 2025 |
 | [OJT 2025](./OJT%202025.pdf) | On-the-job training certificate for 2025 |
 | [Social Activity Contributor 2025](./Social%20Activity%20Contributor%202025.pdf) | Community and social activity contribution in 2025 |
-| [Summer 2025](./Summer%202025.pdf) | Good academic performance for Summer 2025 |
+| [Honorable of Semester Summer 2025](./Summer%202025.pdf) | Good academic performance for Summer 2025 |
 
 ---
 
