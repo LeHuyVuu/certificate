@@ -26,17 +26,17 @@ This repository gathers my academic and professional certificates in one place. 
 
 | Certificate Name | Description | 
 |------------------|-------------|
-| [Excellent of Semester Spring2024](./Excellent%20of%20Semester%20Spring2024.pdf) | Top 100 students excellence in Spring 2024 |
-| [Honorable of Semester Summer2024](./Honorable%20of%20Semester%20Summer2024.pdf) | Achieved Good Academic Performance in Summer 2024 |
-| [Honorable of Semester Fall2023](./Honorable%20of%20Semester%20Fall2023.pdf) | Achieved Good Academic Performance in Fall 2023 |
-| [Honorable of Semester Summer2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Achieved Good Academic Performance in Summer 2023 |
-| [Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf) | Completed the internship successfully |
-| [Web design basic](./Web%20design%20basic.pdf) | Successfully completed Web Design training |
-| [Fall2024](./Fall2024.pdf) | Certificate file |
-| [Fall2025](./Fall2025.pdf) | Certificate file |
-| [OJT 2025](./OJT%202025.pdf) | Certificate file |
-| [Social Activity Contributor 2025](./Social%20Activity%20Contributor%202025.pdf) | Certificate file |
-| [Summer 2025](./Summer%202025.pdf) | Certificate file |
+| [Excellent of Semester Spring 2024](./Excellent%20of%20Semester%20Spring2024.pdf) | Top 100 student excellence in Spring 2024 |
+| [Honorable of Semester Summer 2024](./Honorable%20of%20Semester%20Summer2024.pdf) | Good academic performance in Summer 2024 |
+| [Honorable of Semester Fall 2023](./Honorable%20of%20Semester%20Fall2023.pdf) | Good academic performance in Fall 2023 |
+| [Honorable of Semester Summer 2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Good academic performance in Summer 2023 |
+| [Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf) | Successfully completed the internship |
+| [Web Design Basics](./Web%20design%20basic.pdf) | Completed Web Design basics training |
+| [Fall 2024](./Fall2024.pdf) | Good academic performance Fall 2024 |
+| [Fall 2025](./Fall2025.pdf) | Good academic performance Fall 2025 |
+| [OJT 2025](./OJT%202025.pdf) | On-the-job training certificate for 2025 |
+| [Social Activity Contributor 2025](./Social%20Activity%20Contributor%202025.pdf) | Community and social activity contribution in 2025 |
+| [Summer 2025](./Summer%202025.pdf) | Good academic performance for Summer 2025 |
 
 ---
 
