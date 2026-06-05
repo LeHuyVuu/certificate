@@ -1,29 +1,54 @@
-# 🎓 Certificates Repository 📜
+# Certificates Repository
 
-Welcome to my **Certificates Repository**!  
-This repository is a collection of my academic and professional achievements. Feel free to explore and download the files.
-
-<img align="right" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" >
-
-## 📂 Contents
-
-| Certificate Name                         | Description                                 | 
-|------------------------------------------|---------------------------------------------|
-| [🎉 Excellent of Semester Spring 2024](./Excellent%20of%20Semester%20Spring2024.pdf) | Top 100 students excellence in Spring 2024     | 
-| [💕 Honorable of Semester Summer 2024](./Honorable%20of%20Semester%20Summer2024.pdf) | Achieved Good Academic Performance in Summer 2024         | 
-| [🏅 Honorable of Semester Fall 2023](./Honorable%20of%20Semester%20Fall2023.pdf) | Achieved Good Academic Performance in Fall 2023           | 
-| [☀️ Honorable of Semester Summer 2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Achieved Good Academic Performance in Summer 2023         | 
-| [✅ Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf)           | Completed the internship successfully       | 
-| [📜 Web Design Basic Certificate](./Web%20Design%20Basic.pdf)         | Successfully completed Web Design training  | 
-| [📋 Curriculum Vitae (BE Intern)](./VuLH_Curriculum%20Vitae_BE%20Intern.pdf) | My professional CV                         | 
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe29a,100:ff7eb3&height=200&section=header&text=Certificates%20Repository&fontSize=42&fontAlignY=35&desc=Academic%20and%20professional%20achievements&descAlignY=55&animation=twinkling" alt="Header banner" />
+	<br />
+	<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=600&color=FFB3C7&center=true&vCenter=true&width=720&lines=Welcome+to+my+certificate+collection;Browse+and+download+any+file;Updated+and+organized+in+one+place" alt="Typing header" />
+	<br />
+	<img src="https://img.shields.io/badge/Certificates-11-0ea5e9?style=for-the-badge" alt="Certificates count" />
+	<img src="https://img.shields.io/badge/Updated-2026--06--05-f97316?style=for-the-badge" alt="Last updated" />
+	<img src="https://img.shields.io/badge/Format-PDF%20and%20JPG-10b981?style=for-the-badge" alt="Formats" />
+</div>
 
 ---
 
-## 🎨 Visual Effects
+## Overview
 
+This repository gathers my academic and professional certificates in one place. Each item below links directly to the file for easy download.
 
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffe29a,100:ff7eb3&height=120&section=header&text=Achievement%20Showcase&fontSize=28&animation=twinkling" alt="Showcase banner" />
+</div>
 
-This repository is more than just a collection—it's a showcase of my hard work and dedication to excellence.
+---
+
+## Certificates
+
+| Certificate Name | Description | 
+|------------------|-------------|
+| [Excellent of Semester Spring2024](./Excellent%20of%20Semester%20Spring2024.pdf) | Top 100 students excellence in Spring 2024 |
+| [Honorable of Semester Summer2024](./Honorable%20of%20Semester%20Summer2024.pdf) | Achieved Good Academic Performance in Summer 2024 |
+| [Honorable of Semester Fall2023](./Honorable%20of%20Semester%20Fall2023.pdf) | Achieved Good Academic Performance in Fall 2023 |
+| [Honorable of Semester Summer2023](./Honorable%20of%20Semester%20Summer2023.jpg) | Achieved Good Academic Performance in Summer 2023 |
+| [Fresher Tester at TVN](./Fresher%20Tester%20at%20TVN.pdf) | Completed the internship successfully |
+| [Web design basic](./Web%20design%20basic.pdf) | Successfully completed Web Design training |
+| [Fall2024](./Fall2024.pdf) | Certificate file |
+| [Fall2025](./Fall2025.pdf) | Certificate file |
+| [OJT 2025](./OJT%202025.pdf) | Certificate file |
+| [Social Activity Contributor 2025](./Social%20Activity%20Contributor%202025.pdf) | Certificate file |
+| [Summer 2025](./Summer%202025.pdf) | Certificate file |
+
+---
+
+## Visual Style
+
+<div align="center">
+	<img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" alt="Sparkle effect" width="720" />
+	<br />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=80&section=footer&animation=twinkling" alt="Sparkle footer" />
+</div>
+
+This repository is more than a collection. It is a clean, curated showcase of progress and dedication.
 
 ---
 
